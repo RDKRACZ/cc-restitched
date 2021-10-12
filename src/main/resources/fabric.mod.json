@@ -7,7 +7,8 @@
     "license": "ComputerCraft Public License",
     "icon": "assets/computercraft/pack.png",
     "contact": {
-        "homepage": "https://github.com/Merith-TK/cc-restitched",
+        "homepage": "https://www.curseforge.com/minecraft/mc-mods/cc-restitched",
+        "sources": "https://github.com/Merith-TK/cc-restitched"
         "issues": "https://github.com/Merith-TK/cc-restitched/issues"
     },
     "authors": [
